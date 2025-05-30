@@ -1,4 +1,5 @@
 import streamlit as st
 
 st.title("Hello world!")
-st.text_input("Enter your name:")
+x=st.text_input("Enter your Name")
+st.write(f"hi {x}, how are you!")
