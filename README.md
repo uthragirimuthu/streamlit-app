@@ -1,2 +1,2 @@
 # streamlit-app
-https://github.com/uthragirimuthu/streamlit-app.git
+https://app-app-bffqvy5hb3hbnkdsfgf5dp.streamlit.app/
